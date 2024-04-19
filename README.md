@@ -23,8 +23,7 @@ This project is a Flutter application that provides users with current weather i
 
 ## Usage
 
-- Upon launching the app, users will be prompted to enter their location or allow the app to access their current location.
-- The app will then display current weather information for the specified location.
+- Upon launching the app, the app will then display current weather information for the specified location.
 - Users can swipe to view hourly forecasts for the upcoming hours.
 - Detailed weather information such as humidity, pressure, and wind speed is also provided.
 
